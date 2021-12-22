@@ -1,0 +1,1 @@
+Data Source=DESKTOP-0AQV4FJ;Initial Catalog=urunSatis_db;Integrated Security=True
